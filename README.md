@@ -1,6 +1,6 @@
 <h1>
      <img align="center" width="50px" src="https://img.icons8.com/3d-fluency/94/person-male--v5.png">
-    <span>Alex Garcia - Estudante de Análise de Dados/BI</span>
+    <span>Alex Garcia - Estudante de Big Data e Inteligência Analítica</span>
 </h1>
 Atualmente, atuando na área de PMO, liderando a implementação de projetos com ferramentas low-code e metodologia Scrum. Com conhecimento administrativo, com ampla experiência em gestão de frotas, ativos, contas a pagar e facilities.
 <p>
