@@ -21,8 +21,8 @@ Aprender o básico sobre contribuição no GitHub.
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
+      <th>ETAPAS</th>
+      <th>MATERIAIS DE AOPIO</th>
     </tr>
   </thead>
   <tbody align="left">
